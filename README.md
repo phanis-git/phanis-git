@@ -7,15 +7,9 @@
 ### DevOps Engineer @ Drucare Pvt Ltd  
 🚀 DevOps | AWS | Terraform | Ansible | Shell script | Linux
 
----
-
 I'm a passionate **DevOps Engineer** with over **2 years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS.
 
 ---
-
-# 💫 About Me:
-I'm looking to contribute on DevOps 
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/siva-phani-kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phanipspkmech@gmail.com) 
