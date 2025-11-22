@@ -31,3 +31,12 @@ I'm looking to contribute on DevOps
 [![](https://visitcount.itsvg.in/api?id=phanis-git&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+## 📘 About This Repository
+
+This repository represents my **GitHub Profile**, where I showcase my skills, tools, and professional journey as a DevOps Engineer.  
+It includes a custom banner, tech stack badges, GitHub stats, and useful links to connect with me.
+
+The main purpose of this repo is to serve as a **dynamic portfolio**, automatically updating certain stats and visuals to highlight my contributions and continued growth in DevOps.
