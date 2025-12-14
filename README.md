@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/phanis-git/phanis-git/blob/main/banner-01.png" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/phanis-git/phanis-git/blob/main/he.mp4" alt="GitHub Banner" width="800"/>
 </div>
 
 # 👋 Hi, I'm Siva Phani Kumar
@@ -7,7 +7,7 @@
 ### DevOps Engineer @ Drucare Pvt Ltd  
 🚀 DevOps | AWS | Terraform | Ansible | Shell script | Linux
 
-I'm a passionate **DevOps Engineer** with over **2 years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS.
+I'm a passionate **DevOps Engineer** with over **2 years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD pipelines, and monitoring logs.
 
 ---
 
