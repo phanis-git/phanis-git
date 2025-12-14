@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/phanis-git/phanis-git/blob/main/he.mp4" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/phanis-git/phanis-git/blob/main/he.png" alt="GitHub Banner" width="800"/>
 </div>
 
 # 👋 Hi, I'm Siva Phani Kumar
